@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "e.g heroku/bot_andy.py"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "dip",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
